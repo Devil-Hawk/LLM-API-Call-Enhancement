@@ -1,0 +1,2001 @@
+input,reference
+"import tofu.data as tfd
+tfd.Data1<mask>(",D
+"import openbabel as ob
+ob.<mask>Mol(",OB
+"import cartopy.crs as ccrs
+ccrs.<mask>M(",UT
+"import numpy as np
+np.typeDict.<mask>(",values
+"import meshlabxml as mlx
+mlx.rem<mask>.uniform_resampling(",esh
+"import tensorflow.compat.v2 as tf
+tf.<mask>.digamma(",math
+"import tensorflow as tf
+tf.contrib.quantize.<mask>_eval_graph(",create
+"import goldman.signals as signals
+signals.<mask>_req_create.send(",pre
+"import tensorflow as tf
+tf.<mask>.gfile.stat(",io
+"import scipy.stats as ss
+ss.<mask>apiro(",sh
+"import client as blockstackd_client
+blockstackd_client.<mask>_account_at(",get
+"from OpenSSL._util import ffi as _ffi, lib as _lib, exception_from_error_queue as _exception_from_error_queue, byte_string as _byte_string, native as _native, UNSPECIFIED as _UNSPECIFIED, text_to_bytes_and_warn as _text_to_bytes_and_warn, make_assert as _make_assert
+_lib.X509_CRL_<mask>(",print
+"import pylab as plt
+plt.<mask>(",hist
+"from dfvfs.mount import manager as mount_manager
+mount_manager.MountPointManager.GetMount<mask>(",Point
+"import numpy as np
+np.<mask>.empty(",ma
+"from sqlalchemy.sql import expression as expr
+expr.<mask>(",true
+"from plaso.analyzers import manager as analyzers_manager
+analyzers_manager.Analyzers<mask>.GetAnalyzerInstance(",Manager
+"import pyclustering.core.legion_wrapper as wrapper
+wrapper.legion_dynamic_get_<mask>(",output
+"import plottool.screeninfo as screeninfo
+screeninfo.<mask>_resolution_info(",get
+"import pyqtgraph.opengl as gl
+gl.<mask>ViewWidget(",GL
+"from firecloud import api as fapi
+fapi.<mask>_configs(",get
+"import numpy as np
+np.from<mask>(",iter
+"import sugartensor as tf
+tf.<mask>.AdamOptimizer(",train
+"import PySimpleGUIWeb as sg
+sg.<mask>(",Window
+"import spinmob as _s
+_s.dialogs.<mask>(",load
+"import ga4gh.server.datamodel as datamodel
+datamodel.ExpressionLevelCompoundId.<mask>(",parse
+"import pandas.core.algorithms as algorithms
+algorithms.<mask>ize(",factor
+"import google.datalab as datalab
+datalab.storage._api.Api.verify_permitted_to_<mask>(",read
+"from pandas_datareader import data as web
+web.<mask>_data_yahoo(",get
+"import tensorflow as tf
+tf.compat.<mask>_text(",as
+"import tensorflow as tf
+tf.contrib.<mask>pu.TPUEstimator(",t
+"import empyrical as ep
+ep.<mask>(",beta
+"import pandas as pd
+pd.<mask>mstd(",ew
+"import RPi.GPIO as GPIO
+GPIO.<mask>warnings(",set
+"import anyconfig.api as API
+API.<mask>_schema(",gen
+"from networking_cisco.ml2_drivers.nexus import nexus_db_v2 as nxos_db
+nxos_db.<mask>_nexusvlan_binding(",get
+"import ctypes as ct
+ct.<mask>ll.LoadLibrary(",cd
+"import numpy as np
+np.<mask>(",delete
+"import tensorflow.compat.v2 as tf
+tf.math.bessel_i1<mask>(",e
+"import igraph as _ig
+_ig.<mask>IdGenerator(",Unique
+"import ibis.pandas.aggcontext as agg_ctx
+agg_ctx.<mask>marize(",Sum
+"import numpy.ma as ma
+ma.<mask>(",count
+"import mr_clean._utils.io as _io
+_io.get_<mask>(",info
+"import scipy.stats as sps
+sps.trunc<mask>.rvs(",norm
+"import aeneas.globalfunctions as gf
+gf.print_<mask>(",info
+"import scanpy as sc
+sc.<mask>(",read
+"import matplotlib.pylab as plt
+plt.pcolorm<mask>(",esh
+"from quark.db import api as db_api
+db_api.<mask>_update(",network
+"import mxnet as mx
+mx.image.random_<mask>(",crop
+"import matplotlib.pylab as plt
+plt.<mask>(",title
+"import tensorflow as tf
+tf.train.queue_runner.<mask>Runner(",Queue
+"import scipy as sp
+sp.stats.mstats.f_on<mask>(",eway
+"from OpenSSL._util import ffi as _ffi, lib as _lib, exception_from_error_queue as _exception_from_error_queue, byte_string as _byte_string, native as _native, UNSPECIFIED as _UNSPECIFIED, text_to_bytes_and_warn as _text_to_bytes_and_warn, make_assert as _make_assert
+_lib.X509_REVOKED_set_serial<mask>(",Number
+"import tensorflow_probability as tfp
+tfp.biject<mask>.Sigmoid(",ors
+"import pandas as pd
+pd.offsets.<mask>End(",Month
+"from tuskarclient import client as tuskar_client
+tuskar_client.<mask>_client(",get
+"import numpy as np
+np.<mask>.fix_invalid(",ma
+"from neutron.agent import rpc as agent_rpc
+agent_rpc.<mask>_consumers(",create
+"import pandas.rpy.common as com
+com.rob<mask>.r(",j
+"from userena import signals as userena_signals
+userena_signals.account_sign<mask>.send(",in
+"from quark import plugin_views as v
+v._make_ip_<mask>(",dict
+"import dialogflow_v2 as dialogflow
+dialogflow.types.Query<mask>(",Input
+"import numpy as np
+np.<mask>_share_memory(",may
+"import pyqtgraph as qtg
+qtg.<mask>Map(",Color
+"import tensorflow_probability as tfp
+tfp.distributions.fill_tri<mask>(",angular
+"import asymmetric_jwt_auth.token as token
+token.<mask>_claimed_username(",get
+"import tofu.data as tfd
+tfd.<mask>Cam2D(",Data
+"import apache_beam as beam
+beam.io.textio.WriteTo<mask>(",Text
+"import cartopy.io.shapereader as shpreader
+shpreader.<mask>(",Reader
+"import aioxmpp.ibr as ibr
+ibr.<mask>(",Query
+"import election.models as election
+election.<mask>_or_create_candidate(",update
+"from keras import backend as K
+K.set_learning_<mask>(",phase
+"import anchorhub.messages as messages
+messages.<mask>_duplicate_anchor_information(",print
+"from dialogs import magic_grid2 as magic_grid
+magic_grid.Magic<mask>(",Grid
+"import pandas as pd
+pd.<mask>_mean(",rolling
+"from tensorboard.plugins.debugger import interactive_debugger_plugin as interactive_debugger_plugin_lib
+interactive_debugger_plugin_lib.InteractiveDebugger<mask>(",Plugin
+"import scipy as sp
+sp.interpolate.<mask>rep(",spl
+"import fermipy.utils as utils
+utils.<mask>_to_list(",arg
+"import kamene.all as kamene
+kamene.<mask>ther(",E
+"import utool as ut
+ut.list_args<mask>(",ort
+"from pmagpy import convert_2_magic as convert
+convert.sufar<mask>(",4
+"import tensorflow as tf
+tf.<mask>ShuffleQueue(",Random
+"from quark import plugin_views as v
+v._make_port_for_ip_<mask>(",dict
+"import salt.exceptions as excs
+excs.<mask>wareConnectionError(",VM
+"import traceback as _traceback
+_traceback.print_<mask>(",exc
+"import rfc822 as email_utils
+email_utils.mktime_<mask>(",tz
+"import tensorlayer as tl
+tl.layers.EmbeddingInput<mask>(",layer
+"import synapse.exc as s_exc
+s_exc.BadFile<mask>(",Ext
+"import networkx as nx
+nx.from_<mask>(",agraph
+"from grr_response_server.rdfvalues import objects as rdf_objects
+rdf_objects.<mask>Snapshot(",Client
+"import stomp.utils as utils
+utils.<mask>(",length
+"import mxnet as mx
+mx.sym.Batch<mask>(",Norm
+"import tensorflow as tf
+tf.math.log1<mask>(",p
+"import urllib.request as urllib2
+urllib2.HTTP<mask>(",Handler
+"import ga4gh.schemas.protocol as protocol
+protocol.getValueList<mask>(",Name
+"import progressbar as pb
+pb.<mask>age(",Percent
+"from cauldron.render import texts as render_texts
+render_texts.<mask>(",text
+"import tensorflow.compat.v2 as tf
+tf.math.<mask>(",log
+"import couchbase._libcouchbase as C
+C._get_err<mask>(",type
+"from sklearn.cluster import k_means_ as sk_k_means
+sk_k_means.<mask>Means(",K
+"import ibis.util as util
+util.<mask>_function(",is
+"from pyqtgraph import functions as fn
+fn.<mask>LookupTable(",apply
+"from voluptuous import error as er
+er.SequenceType<mask>(",Invalid
+"import numpy as np
+np.random.dirich<mask>(",let
+"import aeneas.globalfunctions as gf
+gf.ensure_parent_<mask>(",directory
+"from fades import parsing, logger as fades_logger, cache, helpers, envbuilder, file_options
+fades_logger.<mask>_up(",set
+"import knoema.api_definitions as definition
+definition.DatasetVerify<mask>(",Request
+"import reikna.cluda as cluda
+cluda.ocl_<mask>(",api
+"from ryu.ofproto import ofproto_v1_5 as ofproto
+ofproto.oxm_from_<mask>(",user
+"import RPi.GPIO as GPIO
+GPIO.<mask>(",setup
+"import ilxutils.scicrunch_client_helper as scicrunch_client_helper
+scicrunch_client_helper.superclasses_bug_<mask>(",fix
+"import utool as ut
+ut.unexpand<mask>(",user
+"import scripts as blockstackd_scripts
+blockstackd_scripts.<mask>_address_subdomain(",is
+"import lenstronomy.Util.image_util as image_util
+image_util.<mask>_size_array(",re
+"import pyclustering.core.sync_wrapper as wrapper
+wrapper.sync_dynamic_calculate_local_<mask>(",order
+"import scipy.sparse.csgraph as cs
+cs.breadth_first_<mask>(",order
+"import paho.mqtt.client as paho
+paho.<mask>_string(",error
+"import typehelpers as th
+th.<mask>_coercable(",best
+"import scipy.stats as stats
+stats.<mask>.ppf(",t
+"import tacl.cli.utils as utils
+utils.<mask>_db_arguments(",add
+"import salt.exceptions as excs
+excs.<mask>ProxyInputError(",Invalid
+"import numpy as np
+np.<mask>_power(",float
+"import cas_server.models as models
+models.User.objects.get_or_<mask>(",create
+"import pyparsing as pp
+pp.one<mask>(",Of
+"import pmagpy.pmag as pmag
+pmag.<mask>_flag(",add
+"import IPython.nbformat.current as nbformat
+nbformat.<mask>_worksheet(",new
+"import bcbio.pipeline.datadict as dd
+dd.<mask>_transcript_assembler(",get
+"import MRS.analysis as ana
+ana.fit_two_lorentz<mask>(",ian
+"import tilde.core.model as model
+model.<mask>group(",Space
+"import tensorflow as tf
+tf.compat.v1.<mask>Options(",Run
+"from mesh_tensorflow import ops_with_redefined_builtins as mtf
+mtf.reduce_<mask>(",mean
+"import gnomekeyring as gkr
+gkr.<mask>_get_info_sync(",item
+"import numpy as np
+np.<mask>.assert_almost_equal(",testing
+"import networkx as nx
+nx.<mask>_shortest_paths(",all
+"from ryu.topology import api as topo_api
+topo_api.<mask>_switch(",get
+"import _data as _data
+_data.load_<mask>(",multiple
+"from statsmodels import api as sm
+sm.tsa.states<mask>.SARIMAX(",pace
+"from selenium.webdriver.support import expected_conditions as EC
+EC.<mask>_is(",title
+"import aeneas.globalfunctions as gf
+gf.<mask>_path(",absolute
+"import numpy as np
+np.<mask>true(",all
+"import runin.DO as DO
+DO.<mask>_ssh_keys(",get
+"import ga4gh.server.exceptions as exceptions
+exceptions.DatasetNameNotFound<mask>(",Exception
+"import tensorflow as tf
+tf.<mask>.write_graph(",train
+"import scipy as SP
+SP.<mask>10(",log
+"import clear.util as util
+util.<mask>Lookup(",Web
+"from OpenSSL._util import ffi as _ffi, lib as _lib, exception_from_error_queue as _exception_from_error_queue, byte_string as _byte_string, native as _native, UNSPECIFIED as _UNSPECIFIED, text_to_bytes_and_warn as _text_to_bytes_and_warn, make_assert as _make_assert
+_lib.ASN1_STRING_<mask>(",data
+"import turicreate as _turicreate
+_turicreate.toolk<mask>._main.run(",its
+"import pmagpy.pmag as pmag
+pmag.dimap_<mask>(",V
+"import spinmob as _s
+_s.fun.trim_data_<mask>(",uber
+"import pybedtools as bt
+bt.Bed<mask>(",Tool
+"import numpy as np
+np.put<mask>(",mask
+"import scipy.stats as ss
+ss.bur<mask>(",r
+"import turicreate as _tc
+_tc.extensions._toolkits.graph.k<mask>.create(",core
+"from flask import Flask, abort, current_app as app, request as flask_request, redirect
+flask_request.args.<mask>(",get
+"import dialogflow_v2beta1 as dialogflow
+dialogflow.types.<mask>Parameters(",Query
+"import maya.cmds as cmds
+cmds.<mask>Attr(",connect
+"from app.readers import mzidplus as readers
+readers.get_mzid_specfile_<mask>(",ids
+"import numpy as np
+np.<mask>.concatenate(",ma
+"import pycuda.driver as cuda
+cuda.<mask>(",Device
+"import heron.tools.explorer.src.python.logicalplan as logicalplan
+logicalplan.<mask>_parser(",create
+"from dfvfs.resolver import resolver as path_spec_resolver
+path_spec_resolver.Resolver.<mask>FileObject(",Open
+"import numpy as np
+np.random.<mask>_binomial(",negative
+"import tensorflow as tf
+tf.<mask>.resize_nearest_neighbor(",image
+"import thutils.gfile as gfile
+gfile.<mask>_file_existence(",check
+"import _paramcheck as _pchk
+_pchk.<mask>NumTaps(",check
+"import ctypes as _ctypes
+_ctypes.c_int<mask>(",32
+"from grr_response_core.lib.rdfvalues import client as rdf_client
+rdf_client.<mask>Packages(",Software
+"from OpenSSL._util import ffi as _ffi, lib as _lib, exception_from_error_queue as _exception_from_error_queue, byte_string as _byte_string, native as _native, UNSPECIFIED as _UNSPECIFIED, text_to_bytes_and_warn as _text_to_bytes_and_warn, make_assert as _make_assert
+_lib.sk_X509_REVOKED_<mask>(",value
+"from simtk import openmm as mm
+mm.<mask>(",System
+"import Adafruit_GPIO.I2C as I2C
+I2C.require_repeated_<mask>(",start
+"import nibabel as nib
+nib.nifti<mask>.Nifti2Header(",2
+"from timesketch.models import sketch as timesketch_sketch
+timesketch_sketch.SearchIndex.<mask>.filter_by(",query
+"import utool as ut
+ut.<mask>_directory(",view
+"import memote.suite.cli.callbacks as callbacks
+callbacks.git_<mask>(",installed
+"import OpenGL.EGL as egl
+egl.eglBind<mask>(",API
+"import dm.xmlsec.binding as xmlsec
+xmlsec.<mask>IDs(",add
+"import spikeextractors as se
+se.<mask>_sub_extractors_by_property(",get
+"import lenstronomy.Util.constants as const
+const.<mask>_arcsec2days(",delay
+"import networkx as nx
+nx.utils.union_<mask>.UnionFind(",find
+"import chaospy as cp
+cp.<mask>_regression(",fit
+"import hamcrest as hc
+hc.<mask>_of(",all
+"import kik_unofficial.datatypes.xmpp.group_adminship as group_adminship
+group_adminship.<mask>GroupNameRequest(",Change
+"import mxnet as mx
+mx.<mask>.random.uniform(",nd
+"import ga4gh.server.paging as paging
+paging.VariantAnnotationsInterval<mask>(",Iterator
+"from astropy.io import registry as io_registry
+io_registry.<mask>is_best_match(",_
+"import nibabel as nib
+nib.freesur<mask>.read_geometry(",fer
+"import scsgate.messages as messages
+messages.<mask>(",parse
+"import numpy as np
+np.ka<mask>(",iser
+"import utils as utils
+utils.string_to_<mask>(",file
+"from grr_response_core.lib.rdfvalues import osquery as rdf_osquery
+rdf_osquery.<mask>squeryColumn(",O
+"import tensorflow as tf
+tf.train.<mask>aver(",S
+"import numpy as np
+np.<mask>txt(",load
+"import scipy.stats as ss
+ss.poisson.<mask>pmf(",log
+"from couchbase._libcouchbase import Bucket as _Base
+_Base.<mask>_multi(",lock
+"from gtimer.private import focus as f
+f.s.<mask>.append(",order
+"import scipy as sp
+sp.<mask>.mstats.kendalltau(",stats
+"import boto3.s3.transfer as s3transfer
+s3transfer.S3<mask>(",Transfer
+"import mxnet as mx
+mx.image.<mask>read(",im
+"import math as m
+m.<mask>(",atan
+"import pmagpy.pmag as pmag
+pmag.<mask>_flag_arg_from_sys(",get
+"import tensorflow as tf
+tf.graph_util.<mask>_training_nodes(",remove
+"from grr_response_core.lib.rdfvalues import crypto as rdf_crypto
+rdf_crypto.StreamingCBCEncrypt<mask>(",or
+"import lenstronomy.Util.kernel_util as kernel_util
+kernel_util.<mask>_psf(",cut
+"import scipy.ndimage as nd
+nd.morphology.<mask>_erosion(",binary
+"import tensorflow as tf
+tf.<mask>.historgram(",summary
+"import dao.interlang as il
+il.fail<mask>(",cont
+"import future.backports.email as email
+email.utils.format<mask>(",date
+"from app.readers import tsv as tsvreader
+tsvreader.get_cols_in_<mask>(",file
+"from allennlp.nn import util as nn_util
+nn_util.<mask>_mapping(",device
+"import heron.tools.cli.src.python.result as result
+result.is_<mask>(",successful
+"import tensorflow.compat.v2 as tf
+tf.<mask>(",rank
+"import numpy as np
+np.<mask>(",diff
+"import pmagpy.ipmag as ipmag
+ipmag.specimens_results_<mask>(",magic
+"import tensorflow as tf
+tf.<mask>.read_file(",io
+"import charmhelpers.core.hookenv as hookenv
+hookenv.action_<mask>(",fail
+"from flask import request as flask_request
+flask_request.form.<mask>_dict(",to
+"import turicreate as _turicreate
+_turicreate.recommender.factorization_recommender.<mask>(",create
+"import numpy as np
+np.ma.mask_<mask>(",or
+"from grr_response_core.lib.rdfvalues import artifacts as rdf_artifacts
+rdf_artifacts.ArtifactDependency<mask>(",Error
+"import smart_open.http as smart_open_http
+smart_open_http.<mask>(",open
+"import ga4gh.schemas.protocol as protocol
+protocol.<mask>ReadsRequest(",Search
+"import tabular as tb
+tb.tab<mask>(",array
+"import api.global_ as gl
+gl.<mask>MBOL_TABLE.check_class(",SY
+"import xarray as xr
+xr.Index<mask>(",Variable
+"from grr_response_core.lib.rdfvalues import flows as rdf_flows
+rdf_flows.ClientCommunication.FromSerialized<mask>(",String
+"import google.datalab as datalab
+datalab.storage._<mask>.Api.verify_permitted_to_read(",api
+"from pamqp.specification import Queue as pamqp_queue
+pamqp_queue.<mask>(",Bind
+"from mesh_tensorflow import ops_with_redefined_builtins as mtf
+mtf.logical_<mask>(",not
+"import numpy as np
+np.linalg.<mask>(",det
+"import matplotlib.pyplot as plt
+plt.g<mask>(",cf
+"import heron.tools.explorer.src.python.args as args
+args.<mask>_titles(",add
+"import firecloud.api as fapi
+fapi.<mask>check_response_code(",_
+"import dask.dataframe as dd
+dd.<mask>_dask_array(",from
+"import datanommer.models as m
+m.User.get_or_<mask>(",create
+"import bcbio.pipeline.datadict as dd
+dd.<mask>_fpkm(",get
+"import phonenumbers as pn
+pn.<mask>(",parse
+"import wily.cache as cache
+cache.store_archiver_<mask>(",index
+"import fjlc.utils.map_utils as map_utils
+map_utils.normalize_map_<mask>(",between
+"from firecloud import api as fapi
+fapi.validate_<mask>(",config
+"import tensorflow.compat.v1 as tf
+tf.summary.tensor_<mask>(",summary
+"import tensorflow as tf
+tf.train.Int64<mask>(",List
+"import tensorflow as tf
+tf.<mask>.dropout(",nn
+"import toolz.curried.operator as op
+op.is_<mask>(",not
+"import numpy as np
+np.<mask>mat(",b
+"import numpy as np
+np.<mask>.numeric.normalize_axis_tuple(",core
+"from flask import _request_ctx_stack as stack
+stack.top.<mask>_user.get(",current
+"import mxnet as mx
+mx.<mask>.cast(",sym
+"import sklearn.manifold as man
+man.<mask>NE(",TS
+"import skimage.exposure as ski_exposure
+ski_exposure.<mask>_gamma(",adjust
+"import pfp.fields as fields
+fields.<mask>(",Int
+"from cauldron.cli.server import run as server_runner
+server_runner.get_running_step_<mask>(",changes
+"import utool as ut
+ut.iter_<mask>(",window
+"from PIL import ImageTk as PILImageTk
+PILImageTk.<mask>Image(",Photo
+"import numpy as np
+np.array_<mask>(",equal
+"import pylibfreenect2 as lf2
+lf2.<mask>GlobalLogger(",set
+"import cartopy.crs as ccrs
+ccrs.<mask>PolarStereo(",South
+"import ipyvolume as ipv
+ipv.square<mask>(",lim
+"import impala.hiveserver2 as hs2
+hs2.<mask>(",connect
+"import apache_beam as beam
+beam.io.BigQuery<mask>(",Source
+"import ntlm_auth.compute_hash as comphash
+comphash._lmowfv<mask>(",1
+"import numba as nb
+nb.u<mask>(",2
+"import tensorflow.compat.v2 as tf
+tf.<mask>.is_nan(",math
+"import hyperopt as hp
+hp.rand.<mask>(",suggest
+"from pandas.compat.numpy import function as nv
+nv.validate_<mask>(",sum
+"import astropy.units as u
+u.<mask>ConversionError(",Unit
+"import numpy as np
+np.<mask>_(",bool
+"from harpoon import helpers as hp
+hp.<mask>_temp_file(",a
+"import bluetooth._bluetooth as _bt
+_bt.<mask>ci_filter_all_events(",h
+"from qtpy import QtWidgets as QtGui
+QtGui.<mask>FileDialog.getExistingDirectory(",Q
+"import numpy as np
+np.<mask>.abs(",ma
+"import weka.core.serialization as serialization
+serialization.<mask>_all(",read
+"from flask import abort, Blueprint, current_app as app, render_template, redirect, request, url_for, make_response, send_from_directory, flash
+app.<mask>.update_synopsis(",db
+"import ubelt as ub
+ub.read<mask>(",from
+"from opentrons.config import feature_flags as fflags
+fflags.calibrate_to_<mask>(",bottom
+"import pyghmi.exceptions as exc
+exc.Pyghmi<mask>(",Exception
+"import pandas as pd
+pd.<mask>.random.randint(",np
+"import bpmn_python.bpmn_import_utils as utils
+utils.<mask>pmnImportUtils.remove_namespace_from_tag_name(",B
+"from networking_cisco.ml2_drivers.nexus import nexus_db_v2 as nxos_db
+nxos_db.free_vpcid_for_<mask>(",switch
+"import cosmolopy as cp
+cp.perturbation.mass_to_<mask>(",radius
+"import cartopy.crs as ccrs
+ccrs.<mask>ollweide(",M
+"import pmagpy.pmag as pmag
+pmag.get_<mask>(",age
+"import tensorflow as tf
+tf.assign_<mask>(",sub
+"import setproctitle as spt
+spt.setproct<mask>(",itle
+"from plottool import interact_helpers as ih
+ih.connect_<mask>(",callback
+"from matplotlib import gridspec as mgs
+mgs.<mask>SpecFromSubplotSpec(",Grid
+"from IPython.config.application import Application as App
+App.<mask>(",instance
+"import sonnet as snt
+snt.<mask>RNN(",Deep
+"import pyGeno.configuration as conf
+conf.db.<mask>Transaction(",end
+"from openquake.baselib import config, sap, zeromq as z, workerpool as w
+w.setproct<mask>(",itle
+"import aomi.exceptions as aomi_excep
+aomi_excep.<mask>omiData(",A
+"import tensorflow.compat.v1 as tf
+tf.<mask>.normal(",random
+"import kik_unofficial.datatypes.xmpp.login as login
+login.Login<mask>(",Request
+"import networkx as nx
+nx.<mask>_networkx(",draw
+"import matplotlib.pyplot as _plt
+_plt.<mask>_context(",rc
+"from mastool import helpers as h
+h.call_name_<mask>(",is
+"import tensorflow as tf
+tf.<mask>.Dataset(",data
+"import pyhaproxy.config as config
+config.<mask>(",Listen
+"import goldman.signals as signals
+signals.<mask>_req_delete.send(",post
+"import plotly.figure_factory as ff
+ff.<mask>_violin(",create
+"import sugartensor as tf
+tf.<mask>_variable_scope(",get
+"from elifetools import parseJATS as parser
+parser.<mask>_uri(",self
+"from grr_response_core.lib.rdfvalues import client_action as rdf_client_action
+rdf_client_action.Fingerprint<mask>(",Request
+"import six.moves.winreg as winreg
+winreg.Open<mask>(",Key
+"from firecloud import api as fapi
+fapi.<mask>ami(",who
+"import gluonnlp as nlp
+nlp.model.train.FasttextEmbedding<mask>.load_fasttext_format(",Model
+"import pygments.lexers as lexers
+lexers.get_all_lex<mask>(",ers
+"from dynamic_dynamodb.statistics import table as table_stats
+table_stats.<mask>_throttled_read_event_count(",get
+"from mrcrowbar import models as mrc
+mrc.property_<mask>(",get
+"import tilde.core.model as model
+model.Calculation.checksum.in<mask>(",_
+"import tensorflow as tf
+tf.<mask>.decode_image(",image
+"import pyparsing as pp
+pp.<mask>Of(",one
+"import tensorflow as tf
+tf.contrib.<mask>udnn_rnn.CudnnLSTM(",c
+"from pvlib import atmosphere, irradiance, tools, singlediode as _singlediode
+_singlediode._get_size_and_<mask>(",shape
+"import SPD.lib.leastsq_jacobian as lib_k
+lib_k.<mask>raiCurvature(",A
+"import goldman.signals as signals
+signals.<mask>_upload.send(",post
+"import couchbase.exceptions as exceptions
+exceptions.<mask>Error.pyexc(",Timeout
+"import networkx as nx
+nx.dag.transitive_<mask>(",closure
+"import crystal.sql_table_utils as utils
+utils.drop_<mask>(",run
+"from matplotlib import pyplot as plt
+plt.<mask>iver(",qu
+"import paegan.transport.export as ex
+ex.GDALShapefile.<mask>(",export
+"import holoviews as hv
+hv.<mask>.stack(",Area
+"import bcbio.pipeline.datadict as dd
+dd.<mask>_oncofuse_file(",set
+"import aeneas.globalfunctions as gf
+gf.norm_<mask>(",join
+"import gnomekeyring as gkr
+gkr.<mask>_create_sync(",item
+"import tofu.geom._GG as _GG
+_GG.LOS_get_<mask>(",sample
+"from aguaclara.core import physchem as pc
+pc.<mask>_pipe(",flow
+"from firecloud import api as fapi
+fapi.<mask>_workspace(",create
+"import tensorflow as tf
+tf.<mask>.fused_batch_norm(",nn
+"import jacquard.utils.vcf as vcf
+vcf.<mask>cfRecord.parse_record(",V
+"import svgutils.transform as svgt
+svgt.<mask>Element(",Group
+"import mxnet as mx
+mx.init.<mask>thogonal(",Or
+"import tensorflow as tf
+tf.compat.v1.train.<mask>_or_create_global_step(",get
+"import azure.cosmos.routing.routing_range as routing_range
+routing_range._Range.PartitionKeyRangeTo<mask>(",Range
+"import uncompyle6.parsers.parse33 as parse33
+parse33.<mask>33Parser(",Python
+"import ga4gh.schemas.protocol as protocol
+protocol.<mask>PhenotypesRequest(",Search
+"from ncluster import aws_util as u
+u.get_gateway_<mask>(",name
+"from gi.repository import Pango as pango
+pango.Font<mask>(",Description
+"from astroid import context as contextmod
+contextmod.Call<mask>(",Context
+"import crystal.sql_table_utils as utils
+utils.<mask>_project(",drop
+"import pandas.core.algorithms as algos
+algos.take_<mask>(",nd
+"import numdifftools as nd
+nd.<mask>essian(",H
+"import scipy.stats as ss
+ss.<mask>adford(",br
+"from cauldron.cli.server import run as server_runner
+server_runner.<mask>_server_data(",get
+"import dao.interlang as il
+il.<mask>cont(",fail
+"import taskcluster.utils as utils
+utils.slug<mask>(",Id
+"import heron.tools.common.src.python.access.tracker_access as tracker_access
+tracker_access.<mask>_logical_plan(",get
+"import mxnet.symbol as S
+S.<mask>_gradient(",stop
+"import bcbio.pipeline.datadict as dd
+dd.<mask>_summary_metrics(",get
+"import bigdl.nn.layer as BLayer
+BLayer.<mask>LU(",Re
+"import tensorflow as tf
+tf.<mask>_column.bucketized_column(",feature
+"import scipy as sp
+sp.linalg.sqrt<mask>(",m
+"import numpy as np
+np.<mask>1d(",poly
+"import nnabla.functions as F
+F.depthwise_conv<mask>(",olution
+"import rafcon.utils.filesystem as filesystem
+filesystem.<mask>_path(",create
+"import bcbio.pipeline.datadict as dd
+dd.<mask>_transcriptome_align(",get
+"import torch.nn.functional as F
+F.<mask>u(",el
+"import safe.messaging as m
+m.Head<mask>(",ing
+"import numpy as N
+N.<mask>.array(",char
+"import swhlab.common as cm
+cm.<mask>Ipython(",is
+"import utool as ut
+ut.replace_between_<mask>(",tags
+"import rafcon.utils.filesystem as filesystem
+filesystem.separate_folder_path_and_file_<mask>(",name
+"from tensorflow_probability.python.sts.internal import util as sts_util
+sts_util.pad_batch_dimension_for_multiple_<mask>(",chains
+"import utool as ut
+ut.<mask>map(",l
+"import torch.distributed as dist
+dist.get_world_<mask>(",size
+"import uncompyle6.parsers.parse21 as parse21
+parse21.<mask>21ParserSingle(",Python
+"import empyrical as ep
+ep.annual_<mask>(",return
+"import tensorflow as tf
+tf.math.rsq<mask>(",rt
+"import pydoop.hdfs as hdfs
+hdfs.default_is_<mask>(",local
+"import vaex.ext.readcol as rc
+rc.read<mask>(",col
+"from matplotlib import pyplot as plt
+plt.<mask>aspect(",fig
+"from bcbio.structural import shared as sshared
+sshared.<mask>_sv_chroms(",get
+"from quark import plugin_views as v
+v.<mask>make_network_dict(",_
+"import math as math
+math.<mask>(",sin
+"import elifetools.rawJATS as raw_parser
+raw_parser.element_c<mask>(",itation
+"import tensorflow as tf
+tf.contrib.layers.one_hot_<mask>(",column
+"from pyrocore import config as config_ini
+config_ini.<mask>.open(",engine
+"import pmagpy.nlt as nlt
+nlt.TR<mask>(",M
+"import heron.tools.common.src.python.access as access
+access.<mask>_execution_state(",get
+"import utool as ut
+ut.read<mask>(",from
+"import mxnet as mx
+mx.<mask>.log(",sym
+"import plottool as pt
+pt.ensure_nonhex_<mask>(",color
+"import scipy as sc
+sc.arcc<mask>(",os
+"from openquake.server import dbserver as dbs
+dbs.<mask>_server(",run
+"import turicreate as _turicreate
+_turicreate.extensions._text.topicmodel_<mask>(",init
+"import numpy as np
+np.<mask>.encode(",char
+"import seaborn as sns
+sns.bar<mask>(",plot
+"from happenings.utils import common as c
+c.get_<mask>(",now
+"from pmagpy import convert_2_magic as convert
+convert.<mask>(",mini
+"import pyModeS as pms
+pms.adsb.<mask>_s(",nic
+"import cartopy.crs as ccrs
+ccrs.LambertAzimuthalEqual<mask>(",Area
+"import g11pyutils as utils
+utils.is_str_<mask>(",type
+"from api import global_ as gl
+gl.<mask>_msg_cache.clear(",error
+"import mxnet as mx
+mx.init.<mask>(",One
+"import sugartensor as tf
+tf.sg_<mask>(",info
+"import scipy.signal as sig
+sig.fir_filter_design.fir<mask>(",win
+"import utool as ut
+ut.<mask>_lookahead(",negative
+"from google.cloud.datastore_v1.proto import datastore_pb2 as _datastore_pb2
+_datastore_pb2.Commit<mask>(",Request
+"from endpoints_management import _logger as management_logger
+management_logger.<mask>(",info
+"from OpenSSL._util import ffi as _ffi, lib as _lib, exception_from_error_queue as _exception_from_error_queue, byte_string as _byte_string, native as _native, UNSPECIFIED as _UNSPECIFIED, text_to_bytes_and_warn as _text_to_bytes_and_warn, make_assert as _make_assert
+_lib.RSA_<mask>(",new
+"import boto3 as real_boto3
+real_boto3.<mask>(",client
+"import heron.tools.explorer.src.python.topologies as topologies
+topologies.<mask>(",run
+"from OpenSSL._util import UNSPECIFIED as _UNSPECIFIED, exception_from_error_queue as _exception_from_error_queue, ffi as _ffi, lib as _lib, make_assert as _make_assert, native as _native, path_string as _path_string, text_to_bytes_and_warn as _text_to_bytes_and_warn, no_zero_allocator as _no_zero_allocator
+_lib.<mask>_get_client_random(",SSL
+"import pmagpy.pmagplotlib as pmagplotlib
+pmagplotlib.<mask>_lnp(",plot
+"import pyLikelihood as pyLike
+pyLike.<mask>Factory_funcFactory(",Source
+"import basilisp.lang.map as lmap
+lmap.<mask>(",map
+"from nbformat import v4 as nbf
+nbf.new_code_<mask>(",cell
+"from pvlib import atmosphere, irradiance, tools, singlediode as _singlediode
+_singlediode.<mask>lambertw(",_
+"from insights.contrib import pyparsing as p
+p.<mask>(",Word
+"from nilearn import image as nlimage
+nlimage.<mask>_img(",index
+"from spectrum import tools as stools
+stools.<mask>10(",log
+"from grr_response_core.lib.rdfvalues import paths as rdf_paths
+rdf_paths.GlobExpression.RECURSION_REGEX.<mask>(",search
+"import gluonnlp as nlp
+nlp.<mask>.create(",data
+"import nibabel as nib
+nib.nifti1.<mask>ifti1Header(",N
+"import synapse.exc as s_exc
+s_exc.NoSuchSt<mask>(",or
+"import networkx as nx
+nx.Di<mask>(",Graph
+"import pandas.api.types as pdtypes
+pdtypes.<mask>_categorical_dtype(",is
+"from voeventdb.server.database import session_registry as db_session
+db_session.<mask>(",query
+"import phonenumbers as pn
+pn.<mask>_valid_number(",is
+"from OpenSSL._util import ffi as _ffi, lib as _lib, exception_from_error_queue as _exception_from_error_queue, byte_string as _byte_string, native as _native, UNSPECIFIED as _UNSPECIFIED, text_to_bytes_and_warn as _text_to_bytes_and_warn, make_assert as _make_assert
+_lib.<mask>509_get_serialNumber(",X
+"import mxnet as mx
+mx.sym.Drop<mask>(",out
+"import matplotlib as mpl
+mpl.ticker.<mask>Formatter(",Fixed
+"import envipyarclib.gptool.parameter.builder as param_builder
+param_builder.create_post_<mask>(",execute
+"import tensorflow.compat.v2 as tf
+tf.<mask>.bessel_i1e(",math
+"from glue.ligolw import table, lsctables, utils as ligolw_utils
+ligolw_utils.load_<mask>(",filename
+"import goldman.signals as signals
+signals.pre_req_find.<mask>(",send
+"from grr_response_server.rdfvalues import flow_runner as rdf_flow_runner
+rdf_flow_runner.OutputPlugin<mask>(",State
+"import tofu.geom._GG as _GG
+_GG.<mask>_Order(",Poly
+"import hpfrec.cython_loops as cython_loops
+cython_loops.<mask>_int(",cast
+"from tripleohelper.provisioners.openstack import utils as os_utils
+os_utils.get_network_<mask>(",id
+"import SimpleITK as Sitk
+Sitk.Read<mask>(",Image
+"import cellbrowser.cellbrowser as cb
+cb.set<mask>(",Debug
+"import vtkplotter.utils as utils
+utils.<mask>Bands(",make
+"from couchbase._libcouchbase import Bucket as _Base
+_Base.upsert_<mask>(",multi
+"import pyrax.utils as utils
+utils.<mask>_time_string(",iso
+"import numpy as np
+np.mesh<mask>(",grid
+"import mxnet as mx
+mx.<mask>.contrib.isinf(",nd
+"from grr_response_core.lib.rdfvalues import paths as rdf_paths
+rdf_paths.<mask>Spec.FromSerializedString(",Path
+"import brightway2 as bw2
+bw2.BW2Package.<mask>_file(",import
+"import tensorflow as tf
+tf.compat.v<mask>.py_func(",1
+"import tensorflow as tf
+tf.nn.<mask>plus(",soft
+"import utool as ut
+ut.get_parent_<mask>(",frame
+"import ga4gh.server.exceptions as exceptions
+exceptions.<mask>uousSetNotSpecifiedException(",Contin
+"from grr_response_core.lib.rdfvalues import file_finder as rdf_file_finder
+rdf_file_finder.FileFinder<mask>.Download(",Action
+"import pmagpy.pmagplotlib as pmagplotlib
+pmagplotlib.<mask>_arai_zij(",plot
+"import turicreate as _turicreate
+_turicreate.extensions.item_similar<mask>(",ity
+"import PySimpleGUI as gui
+gui.<mask>(",Tab
+"import tensorflow as tf
+tf.contrib.linalg.LinearOperatorTri<mask>(",L
+"import lenstronomy.Util.analysis_util as analysis_util
+analysis_util.elliptic<mask>(",ities
+"import turicreate as _turicreate
+_turicreate.extensions._text.topicmodel_get_<mask>(",value
+"import pycuda.driver as drv
+drv.memset_d<mask>(",8
+"import pmagpy.pmag as pmag
+pmag.find_<mask>(",f
+"import macaroonbakery.checkers as checkers
+checkers.Cave<mask>(",at
+"from tcod import ffi as _ffi
+_ffi.<mask>(",new
+"import rafcon.core.singleton as singleton
+singleton.<mask>_machine_execution_engine._modify_run_to_states(",state
+"import pfp.bitwrap as bitwrap
+bitwrap.<mask>_to_bits(",bytes
+"import bcbio.pipeline.datadict as dd
+dd.<mask>_combined_histogram(",get
+"import abodepy.helpers.constants as CONST
+CONST.get_panel_mode_<mask>(",url
+"import tensorflow.compat.v2 as tf
+tf.nest.<mask>_structure(",map
+"from coilmq.config import config as global_config, init_config, init_logging, resolve_name
+global_config.<mask>(",get
+"import maspy.auxiliary as aux
+aux.findAllSub<mask>(",strings
+"import turicreate as _turicreate
+_turicreate.toolkits._<mask>.run(",main
+"import commah.cosmology_list as cg
+cg.WMAP7_BAO_H0_<mask>(",mean
+"import pwkit.environments.casa.util as casautil
+casautil.<mask>.measures(",tools
+"import _pickle as pickle
+pickle.<mask>_dump(",s
+"import constants as c
+c.DEFAULT_META_<mask>.replace(",FILE
+"import openquake.hmtk.sources.source_conversion_utils as conv
+conv.<mask>pd_to_pmf(",n
+"import decode as dc
+dc.zeros_<mask>(",like
+"from bukuserver import forms, filters as bs_filters
+bs_filters.BookmarkBuku<mask>(",Filter
+"import pmagpy.validate_upload2 as validate_upload
+validate_upload.<mask>_data_model(",get
+"import boto.ec2.autoscale as autoscale
+autoscale.<mask>(",Tag
+"import tensorflow as tf
+tf.keras.optimizers.<mask>(",Adam
+"import aioblescan as aios
+aios.Int<mask>(",Byte
+"import dask.dataframe as dd
+dd.from_dask_<mask>(",array
+"import ray.experimental.array.remote as ra
+ra.linalg.qr.<mask>(",remote
+"import ga4gh.server.exceptions as exceptions
+exceptions.ReferenceRangeError<mask>(",Exception
+"from easymode.tree import xml as tree
+tree.<mask>(",xml
+"from bcbio import install as bcb
+bcb.<mask>_cloudbiolinux(",get
+"import matplotlib.pyplot as plt
+plt.<mask>log(",log
+"import tensorflow as tf
+tf.signal.if<mask>(",ft
+"import mxnet as mx
+mx.sym.broadcast_<mask>(",to
+"import pelix.utilities as utilities
+utilities.<mask>_duplicates(",remove
+"from IPython.core.application import BaseIPythonApplication as IPApp
+IPApp.<mask>(",initialized
+"import nnabla.functions as F
+F.<mask>q_convolution(",in
+"from particles import resampling as rs
+rs.log_sum_<mask>(",exp
+"from networking_cisco.ml2_drivers.nexus import nexus_db_v2 as nxos_db
+nxos_db.remove_nexusport_<mask>(",binding
+"import tensorlayer as tl
+tl.files.load_np<mask>(",z
+"import numpy as np
+np.<mask>config__.get_info(",__
+"from OpenSSL._util import ffi as _ffi, lib as _lib, exception_from_error_queue as _exception_from_error_queue, byte_string as _byte_string, native as _native, UNSPECIFIED as _UNSPECIFIED, text_to_bytes_and_warn as _text_to_bytes_and_warn, make_assert as _make_assert
+_lib.<mask>509_get_notBefore(",X
+"import python.pyclbr as module_browser
+module_browser.<mask>readmodule(",_
+"import psyplot.utils as utils
+utils.check_<mask>(",key
+"import utool as ut
+ut.<mask>str(",hash
+"from ryu.services.protocols.vrrp import event as vrrp_event
+vrrp_event.EventVRRPList<mask>(",Request
+"import uncompyle6.parsers.parse30 as parse30
+parse30.Python30Parser<mask>(",Single
+"import Ragnarok as r
+r.Ragnarok.<mask>_world(",get
+"from grr_response_core.lib.rdfvalues import client as rdf_client
+rdf_client.<mask>ClientURNFromPath(",Get
+"import pandas as pd
+pd.set_<mask>(",option
+"from firecloud import api as fapi
+fapi.<mask>_entities(",delete
+"from grr_response_core.lib.rdfvalues import artifacts as rdf_artifacts
+rdf_artifacts.ArtifactDefinition<mask>(",Error
+"import plottool as pt
+pt.<mask>_funcs.ensure_base01(",color
+"import pmagpy.pmagplotlib as pmagplotlib
+pmagplotlib.plot_<mask>(",map
+"from coremltools.proto import NeuralNetwork_pb2 as _NeuralNetwork_pb2
+_NeuralNetwork_pb2.SamePadding.SamePadding<mask>.Value(",Mode
+"import pandas._libs.tslibs.frequencies as libfreqs
+libfreqs.<mask>lite_rule_alias.get(",_
+"from grr_response_core.lib.rdfvalues import plist as rdf_plist
+rdf_plist.<mask>dPlist(",Launch
+"import pmagpy.pmag as pmag
+pmag.<mask>_dictitem(",get
+"import tensorflow.compat.v2 as tf
+tf.<mask>_fn(",map
+"import scipy.stats as ss
+ss.anderson_ks<mask>(",amp
+"import mxnet as mx
+mx.<mask>.arange(",nd
+"from senaite.jsonapi import request as req
+req.<mask>_recent_created(",get
+"import ga4gh.server.exceptions as exceptions
+exceptions.<mask>SetNotSpecifiedException(",Feature
+"import pylab as p
+p.<mask>vline(",ax
+"import sys as _sys
+_sys.<mask>getframe(",_
+"import nibabel as nib
+nib.<mask>reesurfer.read_label(",f
+"import pmagpy.pmagplotlib as pmagplotlib
+pmagplotlib.plot_<mask>(",init
+"import autograd.numpy as np
+np.<mask>(",array
+"from tinynumpy import tinynumpy as np
+np.<mask>(",array
+"from theano import tensor as T
+T.<mask>(",where
+"import numpy as np
+np.<mask>(",real
+"from pylons import request, response, session, tmpl_context as c, url
+c.pool.<mask>(",save
+"from indra.sources.trips import client as tc
+tc.<mask>_xml(",get
+"import numpy as np
+np.apply_along_<mask>(",axis
+"import reda.exporters.crtomo as exporter_crtomo
+exporter_crtomo.<mask>_files_to_directory(",write
+"import bluetooth._bluetooth as bluez
+bluez.<mask>_opcode_pack(",cmd
+"from pamqp.specification import Exchange as pamqp_exchange
+pamqp_exchange.Un<mask>(",bind
+"import scipy as sp
+sp.stats.gamma.<mask>pdf(",log
+"import rethinkdb as r
+r.<mask>.without(",row
+"import numpy as np
+np.err<mask>(",state
+"import ftdi1 as ftdi
+ftdi.<mask>_error_string(",get
+"from pycdlib import udf as udfmod
+udfmod.<mask>RVolumeStructure(",NS
+"import suds_devel.utility as utility
+utility.<mask>_to_URL(",path
+"import synapse.exc as s_exc
+s_exc.ReadOnly<mask>(",Layer
+"import os.path as osp
+osp.<mask>prefix(",common
+"import docutils.io as io
+io.<mask>TreeInput(",Doc
+"import build as build_util
+build_util.get_platform<mask>(",s
+"import flask_babel as babel
+babel.<mask>_locale(",get
+"import tensorflow as tf
+tf.io.gfile.<mask>(",remove
+"from bhmm.hidden import impl_c as ic
+ic.<mask>_path(",sample
+"import xarray as xr
+xr.<mask>_rasterio(",open
+"import numpy as np
+np.random.mtrand.dirich<mask>(",let
+"import winpwd as pwd
+pwd.getp<mask>(",wall
+"import bluetooth._bluetooth as bluez
+bluez.<mask>ci_filter_set_opcode(",h
+"from waldur_core.core import utils as core_utils
+core_utils.<mask>_from_url(",instance
+"import couchbase.subdocument as SD
+SD.array_add<mask>(",unique
+"import tensorflow as tf
+tf.<mask>Type(",D
+"import scipy as sp
+sp.mesh<mask>(",grid
+"import math as mod_math
+mod_math.sin<mask>(",h
+"import sugartensor as tf
+tf.nn.conv1<mask>(",d
+"import vote.models as vote
+vote.Votes.objects.get_or_<mask>(",create
+"import tensorflow as tf
+tf.<mask>Options(",GPU
+"import _functions as _fun
+_fun.integrate_<mask>(",data
+"from pyclustering.utils.color import color as color_list
+color_list.get_<mask>(",color
+"from Crypto.Signature import PKCS1_v1_5 as pkcs
+pkcs.<mask>(",new
+"import utool as ut
+ut.<mask>_table_rows(",get
+"import matplotlib.transforms as mtransforms
+mtransforms.<mask>boxTransformFrom(",B
+"import utool as ut
+ut.true<mask>(",path
+"import bel.lang.bel_specification as bel_specification
+bel_specification.<mask>_function_help(",get
+"import Tkinter as tk
+tk.Photo<mask>(",Image
+"import google.datalab as datalab
+datalab.<mask>.commands.render_dictionary(",utils
+"from OpenSSL._util import ffi as _ffi, lib as _lib, exception_from_error_queue as _exception_from_error_queue, byte_string as _byte_string, native as _native, UNSPECIFIED as _UNSPECIFIED, text_to_bytes_and_warn as _text_to_bytes_and_warn, make_assert as _make_assert
+_lib.X509V3_EXT_<mask>(",print
+"import pykitti.utils as utils
+utils.<mask>_calib_file(",read
+"import umi_tools.Utilities as U
+U.<mask>(",Start
+"import vote.models as vote
+vote.V<mask>.objects.get_or_create(",otes
+"import numpy as np
+np.ma.<mask>(",abs
+"import networkx as nx
+nx.algorithms.breadth_first_<mask>.bfs_edges(",search
+"import lenstronomy.Util.data_util as data_util
+data_util.magnitude2c<mask>(",ps
+"import jaraco.windows.api.filesystem as api
+api.<mask>FileAttributes(",Set
+"import pandas as pd
+pd.read_fw<mask>(",f
+"import layout.managers.grid as grid
+grid.<mask>GridLM(",Simple
+"from marv_cli import marv as marvcli
+marvcli.<mask>(",command
+"import jaraco.windows.api.filesystem as api
+api.GetFile<mask>(",Attributes
+"import pybel as pb
+pb.<mask>olecule(",M
+"from elifetools import parseJATS as parser
+parser.history_<mask>(",date
+"from grr_response_server.rdfvalues import hunts as rdf_hunts
+rdf_hunts.<mask>HuntArgs(",Generic
+"import qtmacs.qte_global as qte_global
+qte_global.last_key_sequence.toQKeyEvent<mask>(",List
+"import uncompyle6.parsers.parse22 as parse22
+parse22.<mask>22Parser(",Python
+"from elifearticle import article as ea
+ea.Aff<mask>(",iliation
+"import ga4gh.server.exceptions as exceptions
+exceptions.<mask>naQuantificationSetNotFoundException(",R
+"import seaborn as sns
+sns.kde<mask>(",plot
+"from dfwinreg import registry_searcher as dfwinreg_registry_searcher
+dfwinreg_registry_searcher.<mask>RegistrySearcher(",Win
+"from tensor2tensor import problems_colab as t2t_problems
+t2t_problems.<mask>(",problem
+"from pycdlib import udf as udfmod
+udfmod.symlink_to_<mask>(",bytes
+"import heron.tools.explorer.src.python.args as args
+args.add_component_<mask>(",name
+"import maya.cmds as cmds
+cmds.<mask>(",file
+"import pandas as pd
+pd.datetime.<mask>(",date
+"from werkzeug import wrappers as werkzeug_wrappers
+werkzeug_wrappers.<mask>(",Response
+"import weka.core.classes as classes
+classes.<mask>_classname(",get
+"from grr_response_core.lib.rdfvalues import client as rdf_client
+rdf_client.<mask>(",Group
+"import tensorflow as tf
+tf.scatter_<mask>(",update
+"import tensorflow as tf
+tf.rsq<mask>(",rt
+"import dialogflow_v2 as dialogflow
+dialogflow.types.Intent.TrainingPhrase.<mask>(",Part
+"import aioblescan as aios
+aios.<mask>self(",It
+"from openquake.hazardlib import imt as imt_module
+imt_module.<mask>(",SA
+"import numpy as np
+np.<mask>fromtxt(",gen
+"from rtsprofile import direction as dir
+dir.from_<mask>(",string
+"import six.moves.winreg as winreg
+winreg.<mask>Key(",Open
+"import matplotlib.dates as mdates
+mdates.<mask>uteLocator(",Min
+"import sqlalchemy as sa
+sa.<mask>.DisconnectionError(",exc
+"import utool as ut
+ut.<mask>_str.align_lines(",util
+"from allennlp.tools import wikitables_evaluator as evaluator
+evaluator.to_value_<mask>(",list
+"import tensorflow as tf
+tf.image.central_<mask>(",crop
+"import nipype.interfaces.freesurfer as fs
+fs.FSCommand.set_default_subjects_<mask>(",dir
+"import distutils.command.build_py as orig
+orig.build_<mask>.get_outputs(",py
+"import scipy.signal as sig
+sig.<mask>_window(",get
+"import sqlalchemy as sa
+sa.<mask>(",asc
+"from plaso.preprocessors import manager as preprocessors_manager
+preprocessors_manager.PreprocessPluginsManager.<mask>Names(",Get
+"import mxnet as mx
+mx.sym.Deconv<mask>(",olution
+"import elifetools.rawJATS as raw_parser
+raw_parser.et<mask>(",al
+"import tensorlayer as tl
+tl.<mask>.exists_or_mkdir(",files
+"from hnv.config import factory as config_factory
+config_factory.get_<mask>(",options
+"import ga4gh.server.datamodel.bio_metadata as bio_metadata
+bio_metadata.<mask>iosample(",B
+"import tensorflow.contrib.layers as layers
+layers.convolution2<mask>(",d
+"import pysynphot as S
+S.FileSpect<mask>(",rum
+"import gluonnlp as nlp
+nlp.<mask>.ConstWidthBucket(",data
+"import dialogflow_v2 as dialogflow
+dialogflow.types.InputAudio<mask>(",Config
+"import EB.builder.utilities.classification as classification
+classification.<mask>_sort_order(",get
+"import pandas as pd
+pd.<mask>_csv(",read
+"import mxnet as mx
+mx.model.<mask>create_kvstore(",_
+"from google.cloud.bigtable_v2.proto import data_pb2 as data_v2_pb2
+data_v2_pb2.<mask>Set(",Row
+"import numpy as np
+np.<mask>(",exp
+"import client as blockstackd_client
+blockstackd_client.get_name_<mask>(",record
+"from elifetools import parseJATS as parser
+parser.full_<mask>(",title
+"import fmf.utils as utils
+utils.<mask>Error(",Format
+"import jiggle_version.parse_kwarg_version as kwarg_version
+kwarg_version.<mask>_in_line(",find
+"import numpy as np
+np.polynomial.legendre.<mask>val(",leg
+"import plottool as pt
+pt.color_funcs.<mask>_hsv_of_rgb(",adjust
+"import uncompyle6.parsers.parse37 as parse37
+parse37.<mask>37ParserSingle(",Python
+"from turicreate.toolkits import text_analytics as _text_analytics
+_text_analytics.drop_<mask>(",words
+"from networking_cisco.apps.saf.common import dfa_sys_lib as sys_utils
+sys_utils.<mask>_all_run_phy_intf(",get
+"import tensorflow as tf
+tf.contrib.<mask>udnn_rnn.CudnnCompatibleGRUCell(",c
+"import synapse.lib.ast as s_ast
+s_ast.<mask>Value(",Var
+"import forgery_py.forgery.basic as basic
+basic.<mask>(",number
+"from pycocotools import mask as maskUtils
+maskUtils.<mask>(",area
+"import _rpi_ws281x as ws
+ws.ws2811_<mask>(",init
+"import emirdrp.processing.info as info
+info.gather_info_df<mask>(",rame
+"import tensorflow as tf
+tf.<mask>32.is_compatible_with(",int
+"import cartopy.crs as ccrs
+ccrs.<mask>ostationary(",Ge
+"import pandas as pd
+pd.<mask>(",Series
+"import mxnet as mx
+mx.nd.logical_<mask>(",and
+"import tensorflow as tf
+tf.<mask>.Server(",train
+"import heron.tools.cli.src.python.cdefs as cdefs
+cdefs.read_server_mode_cluster_<mask>(",definition
+"import autograd.scipy.stats.t as t
+t.<mask>pdf(",log
+"import tensorflow as tf
+tf.keras.callbacks.<mask>(",History
+"import _pylab_tweaks as _pt
+_pt.<mask>_set_aspect(",image
+"import mxnet as mx
+mx.<mask>.unravel_index(",nd
+"import ga4gh.server.exceptions as exceptions
+exceptions.VariantSetNotFound<mask>(",Exception
+"import OpenGL.GLUT as glut
+glut.<mask>utCreateWindow(",gl
+"import bcbio.pipeline.datadict as dd
+dd.set_fpkm_iso<mask>(",form
+"import rtpipe.reproduce as reproduce
+reproduce.<mask>ine_cand(",ref
+"import pmagpy.nlt as nlt
+nlt.<mask>M(",TR
+"import numpy as np
+np.linalg.e<mask>(",igh
+"from nacl import exceptions as exc
+exc.BadSignature<mask>(",Error
+"import glin.zmq.messages as msgs
+msgs.Message<mask>.scene_active(",Builder
+"import matplotlib.animation as animation
+animation.Artist<mask>(",Animation
+"import elifetools.rawJATS as raw_parser
+raw_parser.<mask>_title(",article
+"import numpy as np
+np.ndarray.<mask>new__(",__
+"import heron.tools.explorer.src.python.args as parse
+parse.<mask>_bool_values(",insert
+"from plaso.analysis import manager as analysis_manager
+analysis_manager.AnalysisPluginManager.<mask>PluginObjects(",Get
+"from tripleohelper.provisioners.openstack import utils as os_utils
+os_utils.get_keypair_<mask>(",id
+"import os.path as op
+op.<mask>(",split
+"from grr_response_server.rdfvalues import objects as rdf_objects
+rdf_objects.PathInfo.FromPath<mask>(",Spec
+"from nilearn import image as nlimage
+nlimage.index_<mask>(",img
+"import scipy.sparse as spsp
+spsp.<mask>pmatrix_bsr(",iss
+"import svgutils.transform as sg
+sg.from<mask>(",file
+"import lib.cls_filelist as mod_fl
+mod_fl.<mask>List(",File
+"import tensorflow as tf
+tf.<mask>_equal(",not
+"import ubelt as ub
+ub.<mask>_data(",hash
+"from grr_response_core.lib.rdfvalues import artifacts as rdf_artifacts
+rdf_artifacts.ClientAction<mask>(",Result
+"from fabric import api as fab
+fab.<mask>_only(",warn
+"import geopandas as gpd
+gpd.GeoDataFrame.<mask>_features(",from
+"import nibabel as nib
+nib.<mask>ifti1.save(",n
+"import scipy as sp
+sp.<mask>(",diff
+"import tensorflow as tf
+tf.contrib.framework.<mask>(",sort
+"import aioblescan as aios
+aios.Long<mask>(",Int
+"from flask import abort, Blueprint, current_app as app, render_template, redirect, request, url_for, make_response, send_from_directory, flash
+app.db.gene_<mask>(",list
+"from app.readers import tsv as tsvreader
+tsvreader.<mask>_psm_sequence(",get
+"from xml.etree import cElementTree as ET
+ET.Tree<mask>(",Builder
+"import numpy as np
+np.<mask>en(",al
+"from pykml_geos.factory import KML_ElementMaker as KML
+KML.<mask>(",east
+"from s2clientprotocol import error_pb2 as sc_err
+sc_err.ActionResult.<mask>(",Name
+"import turicreate as _tc
+_tc.<mask>._is_non_string_iterable(",util
+"import pylab as plt
+plt.<mask>read(",im
+"from elifetools import parseJATS as parser
+parser.research_organ<mask>(",ism
+"import ga4gh.server.exceptions as exceptions
+exceptions.ContinuousSetNotFound<mask>(",Exception
+"import PySimpleGUI as sg
+sg.<mask>(",Button
+"from grr_response_core.lib.rdfvalues import client as rdf_client
+rdf_client.Knowledge<mask>(",Base
+"import pyfakefs.fake_filesystem as fake_filesystem
+fake_filesystem.FakeOs<mask>(",Module
+"import tensorflow as tf
+tf.<mask>.gfile.listdir(",io
+"import tensorflow.compat.v2 as tf
+tf.math.<mask>f(",er
+"from OpenSSL._util import UNSPECIFIED as _UNSPECIFIED, exception_from_error_queue as _exception_from_error_queue, ffi as _ffi, lib as _lib, make_assert as _make_assert, native as _native, path_string as _path_string, text_to_bytes_and_warn as _text_to_bytes_and_warn, no_zero_allocator as _no_zero_allocator
+_lib.<mask>_get_servername(",SSL
+"import tensorflow as tf
+tf.compat.v<mask>.variable_scope(",1
+"import maspy.auxiliary as aux
+aux.Data<mask>(",Fit
+"import tensorflow as tf
+tf.losses.mean_squared_<mask>(",error
+"from stetho.agent.common import utils as agent_utils
+agent_utils.make_<mask>(",response
+"import reda.plotters.pseudoplots as PS
+PS.<mask>_pseudosection_type2(",plot
+"import tensorflow.compat.v2 as tf
+tf.<mask>(",cos
+"import scipy.ndimage as scind
+scind.<mask>_position(",minimum
+"import nnabla as nn
+nn.parameter.<mask>_parameter(",set
+"from conference_scheduler.lp_problem import utils as lpu
+lpu.slot_availability_<mask>(",array
+"import ga4gh.server.datamodel.bio_metadata as bio_metadata
+bio_metadata.Bios<mask>(",ample
+"import ctypes as _ctypes
+_ctypes.<mask>_bool(",c
+"import salt.utils.xmlutil as xml
+xml.<mask>_dict(",to
+"import tt as _tt
+_tt.vector.<mask>_list(",to
+"import heron.tools.common.src.python.utils.config as config
+config.get_heron_release_<mask>(",file
+"import numpy as np
+np.<mask>_type(",result
+"import tensorflow as tf
+tf.<mask>.moments(",nn
+"import tensorflow as tf
+tf.summary.<mask>(",Summary
+"import validator_collection.validators as validators
+validators.<mask>(",path
+"import pandas as pd
+pd.Series.<mask>_frame(",to
+"import pmagpy.pmag as pmag
+pmag.<mask>_age(",get
+"import pyparsing as pp
+pp.<mask>(",Group
+"from allel.chunked import util as _util
+_util.<mask>_table_like(",check
+"import tensorflow as tf
+tf.nn.<mask>_k(",top
+"import porespy as ps
+ps.<mask>.fftmorphology(",tools
+"import quantumflow as qf
+qf.ISW<mask>(",AP
+"import brightway2 as bw2
+bw2.<mask>.delete_project(",projects
+"from astropy.io import registry as io_registry
+io_registry._is_best_<mask>(",match
+"import ConfigSpace as CS
+CS.Equals<mask>(",Condition
+"import rafcon.gui.helpers.state_machine as gui_helper_state_machine
+gui_helper_state_machine.add_data_port_to_selected_<mask>(",states
+"from pandas._libs.tslibs import NaT, NaTType, frequencies as libfrequencies, iNaT, period as libperiod
+libperiod.periodarr_to_dt64<mask>(",arr
+"from google.cloud.bigtable_v2.proto import bigtable_pb2 as data_messages_v2_pb2
+data_messages_v2_pb2.ReadRows<mask>(",Request
+"import tofu.data._plot as _plot
+_plot.<mask>_plot_svd(",Data
+"from pyemtmad import types as emtype
+emtype.<mask>Description(",Icon
+"import sugartensor as tf
+tf.sg_<mask>(",context
+"from pandas.compat.numpy import function as nv
+nv.validate_argmax_with_skip<mask>(",na
+"import utool as ut
+ut.get_arg<mask>(",names
+"import mxnet as mx
+mx.io.MNIST<mask>(",Iter
+"import utool as ut
+ut.<mask>_to(",write
+"import tensorlayer as tl
+tl.nl<mask>.Vocabulary(",p
+"import google.datalab as datalab
+datalab.utils.pick_unused_<mask>(",port
+"import numpy as np
+np.<mask>.standard_normal(",random
+"import usb.util as util
+util.build_request_<mask>(",type
+"import requests as req
+req.<mask>ManyRedirects(",Too
+"import tensorflow as tf
+tf.layers.<mask>2d_transpose(",conv
+"import sklearn.metrics as skm
+skm.<mask>_precision_score(",average
+"import nibabel.freesurfer.io as fsio
+fsio.<mask>_geometry(",write
+"from s2clientprotocol import sc2api_pb2 as sc_pb, common_pb2 as common_pb, query_pb2 as query_pb, debug_pb2 as debug_pb, raw_pb2 as raw_pb
+debug_pb.Debug<mask>(",Text
+"import tensorflow as tf
+tf.compat.<mask>1.assign(",v
+"import salt.utils.http as http
+http.<mask>(",query
+"from gi.repository import Gdk as gdk
+gdk.rectangle_<mask>(",union
+"import toolz as tz
+tz.itertoolz.<mask>(",take
+"import tensorflow as tf
+tf.<mask>_inf(",is
+"import dialogflow_v2beta1 as dialogflow
+dialogflow.types.Document.Knowledge<mask>.Value(",Type
+"import numpy as np
+np.<mask>.mask_or(",ma
+"import nibabel as nib
+nib.nifti1.Nifti1<mask>(",Image
+"import pmagpy.pmag as pmag
+pmag.fsh<mask>(",dev
+"import synapse.lib.task as s_task
+s_task.Task.<mask>it(",an
+"import anchorhub.messages as messages
+messages.print_duplicate_anchor_<mask>(",information
+"from infoblox_client import objects as obj
+obj.<mask>hcpOption(",D
+"import pyrax.exceptions as exc
+exc.<mask>CountExceeded(",Network
+"import socorrolib.lib.datetimeutil as dtutil
+dtutil.<mask>HoursToTimeDelta(",str
+"import synapse.lib.provenance as s_provenance
+s_provenance.<mask>(",claim
+"import shared_filter_helpers as ops
+ops.bw<mask>(",_
+"from astropy import wcs as pywcs
+pywcs.W<mask>(",CS
+"from kmip.core.factories import attributes as attribute_factory
+attribute_factory.Attribute<mask>(",Factory
+"import sporco.linalg as sl
+sl.<mask>fftw_empty_aligned(",py
+"import ga4gh.server.paging as paging
+paging.ExpressionLevels<mask>(",Iterator
+"from grr_response_server.rdfvalues import objects as rdf_objects
+rdf_objects.<mask>FullInfo(",Client
+"import tensorflow as tf
+tf.graph_<mask>.extract_sub_graph(",util
+"import pyrax.exceptions as exc
+exc.<mask>MonitoringCheckGranularity(",Missing
+"import FukuML.Utility as utility
+utility.DatasetLoader.feature_<mask>(",transform
+"import tableprint as tp
+tp.humant<mask>(",ime
+"import pyarrow as pa
+pa.<mask>.from_batches(",Table
+"import ray.experimental.streaming.operator_instance as operator_instance
+operator_instance.Source.<mask>(",remote
+"import tensorflow as tf
+tf.compat.v1.initializers.<mask>_normal(",random
+"import mxnet as mx
+mx.<mask>.cos(",sym
+"import tensorflow as tf
+tf.compat.v<mask>.assert_rank(",1
+"import goatools.wr_tbl as RPT
+RPT.<mask>t_tsv(",pr
+"from dynamic_dynamodb.statistics import table as table_stats
+table_stats.<mask>_throttled_by_consumed_read_percent(",get
+"from prospector.config import configuration as cfg
+cfg.build_command_line_<mask>(",source
+"import autolab_core.utils as utils
+utils.<mask>_experiment_id(",gen
+"import matplotlib.pyplot as plt
+plt.<mask>Params.update(",rc
+"import scipy.ndimage as scind
+scind.<mask>_erosion(",grey
+"from celery import chord as _chord
+_chord.callback_<mask>.delete(",result
+"import ga4gh.server.exceptions as exceptions
+exceptions.CallSetNotFound<mask>(",Exception
+"from allel.chunked import util as _util
+_util.<mask>_equal_length(",check
+"import numpy as np
+np.atleast_1<mask>(",d
+"from metator.scripts import hicstuff as hcs
+hcs.<mask>_sparse(",bin
+"import f311.filetypes as ft
+ft.Spect<mask>(",rum
+"import sawtooth_rest_api.exceptions as errors
+errors.ReceiptIdQuery<mask>(",Invalid
+"import aeneas.globalfunctions as gf
+gf.<mask>_py2_narrow_build(",is
+"import tensorflow as tf
+tf.<mask>.ExponentialMovingAverage(",train
+"import aeneas.globalfunctions as gf
+gf.<mask>_string_to_dict(",config
+"from mxnet import ndarray as nd
+nd.<mask>(",log
+"from bcbio.pipeline import datadict as dd
+dd.<mask>_coverage_interval(",get
+"import elifetools.rawJATS as raw_parser
+raw_parser.<mask>(",paragraph
+"import pyqtgraph as _p
+_p.QtGui.Q<mask>(",Image
+"import rtpipe.parsesdm as ps
+ps.<mask>_metadata(",get
+"import osrframework.utils.general as general
+general.expandEntitiesFrom<mask>(",Email
+"import pandas as pd
+pd.io.sql.<mask>_schema(",get
+"from mapchete.commons import clip as commons_clip
+commons_clip.clip_array_with_<mask>(",vector
+"import torch as th
+th.b<mask>(",mm
+"import numpy as np
+np.ma.<mask>anyarray(",as
+"import mxnet as mx
+mx.<mask>.sum(",sym
+"import pyqtgraph as pg
+pg.View<mask>(",Box
+"import tensorlayer as tl
+tl.logging.<mask>(",info
+"import gc as gc_
+gc_.get_<mask>(",count
+"from horizon.utils import settings as utils_settings
+utils_settings.import_<mask>(",setting
+"from ncluster import aws_util as u
+u.wait_until_<mask>(",available
+"import tensorflow as tf
+tf.<mask>.sigmoid_cross_entropy_with_logits(",nn
+"import phonopy.cui.load_helper as load_helper
+load_helper.<mask>_cell_settings(",get
+"from nupic.bindings.algorithms import SDRClassifier as FastSDRClassifier
+FastSDRClassifier.<mask>(",read
+"import ChromeController.filter_funcs as filter_funcs
+filter_funcs.<mask>_frame_load_command(",check
+"import remi.gui as gui
+gui.<mask>Item(",Table
+"import bcbio.pipeline.datadict as dd
+dd.<mask>_summary_qc(",get
+"from plaso.storage import factory as storage_factory
+storage_factory.<mask>Factory.CreateStorageWriterForFile(",Storage
+"import pylab as plt
+plt.<mask>.get_cmap(",cm
+"import bisect as bs
+bs.bisect_<mask>(",right
+"import pypet.pypetexceptions as pex
+pex.VersionMismatch<mask>(",Error
+"import tofu.geom._comp as _comp
+_comp._Ves_get_sample<mask>(",V
+"import mxnet as mx
+mx.sym.<mask>(",dot
+"import gluonnlp as nlp
+nlp.<mask>.Counter(",data
+"from bhmm.output_models.impl_c import gaussian as gc
+gc.<mask>_obs(",p
+"import kik_unofficial.datatypes.xmpp.chatting as chatting
+chatting.<mask>goingGroupIsTypingEvent(",Out
+"import seaborn as sns
+sns.<mask>_style(",set
+"import glin.zmq.messages as msgs
+msgs.MessageBuilder.scene_<mask>(",add
+"import numpy as np
+np.ix<mask>(",_
+"import weka.core.typeconv as typeconv
+typeconv.<mask>_list_to_array(",string
+"from google.cloud.bigtable_v2.proto import bigtable_pb2 as data_messages_v2_pb2
+data_messages_v2_pb2.<mask>ateRowsRequest(",Mut
+"import tensorflow.compat.v2 as tf
+tf.<mask>.relu(",nn
+"from tensor2tensor.data_generators.wikisum import utils as cc_utils
+cc_utils.<mask>ahead(",read
+"import pandas as pd
+pd.read_sql_<mask>(",query
+"from grr_response_server.rdfvalues import cronjobs as rdf_cronjobs
+rdf_cronjobs.<mask>CronAction(",System
+"import pyarrow.csv as csv
+csv.Parse<mask>(",Options
+"from tensor2tensor.trax.backend import numpy as np
+np.<mask>(",sum
+"import featureflow as ff
+ff.Lmdb<mask>(",Database
+"import tensorflow as tf
+tf.<mask>.l2_loss(",nn
+"import networkx as nx
+nx.drawing.nx_<mask>.write_dot(",agraph
+"from firecloud import api as fapi
+fapi.<mask>_entities(",copy
+"import utool as ut
+ut.<mask>_python_text_into_lines(",split
+"from grr_response_core.lib.rdfvalues import flows as rdf_flows
+rdf_flows.Grr<mask>(",Status
+"from mesh_tensorflow import ops_with_redefined_builtins as mtf
+mtf.reduce_<mask>(",any
+"from jax import numpy as np
+np.<mask>(",sum
+"import stagger.frames as Frames
+Frames.<mask>_frame_class(",is
+"from s2clientprotocol import sc2api_pb2 as sc_pb, common_pb2 as common_pb, query_pb2 as query_pb, debug_pb2 as debug_pb, raw_pb2 as raw_pb
+sc_pb.RequestLeave<mask>(",Game
+"import tensorflow as tf
+tf.assert_<mask>(",positive
+"import pmagpy.pmag as pmag
+pmag.<mask>ap_V(",dim
+"import scipy as SP
+SP.<mask>(",mean
+"from plaso.parsers import manager as parsers_manager
+parsers_manager.ParsersManager.<mask>ParserAndPluginNames(",Get
+"import tensorflow as tf
+tf.keras.layers.MaxPooling2<mask>(",D
+"from gi.repository import PangoCairo as pangocairo
+pangocairo.<mask>_layout(",create
+"import urllib.request as request
+request.<mask>(",quote
+"import brainiak.utils.utils as utils
+utils.<mask>_mass_exp(",center
+"import ga4gh.server.exceptions as exceptions
+exceptions.<mask>RequestException(",Bad
+"import matplotlib_venn as mplv
+mplv.venn<mask>(",2
+"from pandas.core import window as rwindow
+rwindow.<mask>m(",ew
+"from matplotlib import pyplot as plt
+plt.hex<mask>(",bin
+"import xarray as xr
+xr.backends.<mask>.open_dataset(",api
+"from quark.db import api as db_api
+db_api.route_<mask>(",update
+"from bcbio.pipeline import datadict as dd
+dd.get_disc_b<mask>(",am
+"import pandas as pd
+pd.<mask>.arange(",np
+"import tensorflow as tf
+tf.contrib.<mask>.nest.pack_sequence_as(",framework
+"from trepan.lib import thred as Mthread, complete as Mcomplete
+Mthread.<mask>_thread_names(",map
+"from google.cloud.datastore_v1.proto import entity_pb2 as _entity_pb2
+_entity_pb2.<mask>(",Key
+"from citrination_client.models import routes as routes
+routes.get_data_view_design_<mask>(",status
+"import typed_ast.ast3 as _ast_py3
+_ast_py3.<mask>(",parse
+"import numpy as np
+np.maximum.reduce<mask>(",at
+"import synapse.lib.ast as s_ast
+s_ast.Pivot<mask>(",In
+"import numpy as np
+np.<mask>enumerate(",nd
+"import datanommer.models as m
+m.<mask>.query.order_by(",Message
+"from firecloud import api as fapi
+fapi.<mask>_workspace_configs(",list
+"import astropy.io.ascii as ii
+ii.<mask>(",write
+"from grr_response_server.rdfvalues import cronjobs as rdf_cronjobs
+rdf_cronjobs.CronJobRun<mask>(",Status
+"from plaso.analysis import manager as analysis_manager
+analysis_manager.AnalysisPlugin<mask>.GetPluginNames(",Manager
+"import matplotlib.tri as mpltri
+mpltri.Triang<mask>(",ulation
+"import sporco.cnvrep as cr
+cr.mskW<mask>(",shape
+"import validator_collection.validators as validators
+validators.<mask>_exists(",path
+"import spectrum.errors as errors
+errors.<mask>_positive_integer(",is
+"import theano.tensor as T
+T.<mask>r(",sq
+"from sawtooth_cli import format_utils as fmt
+fmt.<mask>_yaml(",print
+"from PIL import Image as Pil
+Pil.<mask>(",new
+"import xarray as xr
+xr.open_data<mask>(",array
+"import tofu.geom._plot as _plot
+_plot.<mask>_plot(",Struct
+"from htmresearch.support import numpy_helpers as np2
+np2.argmax<mask>(",Multi
+"import featureflow as ff
+ff.<mask>IdProvider(",Static
+"import scipy.stats as ss
+ss.<mask>isson(",po
+"from particles import resampling as rs
+rs.<mask>_mean_exp(",log
+"import swhlab.core.common as cm
+cm.timeth<mask>(",is
+"from urllib import parse as urlparse
+urlparse.<mask>ldefrag(",ur
+"import aeneas.globalfunctions as gf
+gf.print_<mask>(",success
+"from sqlalchemy import func as sa_func
+sa_func.<mask>(",replace
+"import basilisp.lang.list as llist
+llist.<mask>(",list
+"import dryxPython.astrotools as da
+da.convert_mpc_to_red<mask>(",shift
+"import sugartensor as tf
+tf.<mask>_initializer.orthogonal(",sg
+"import synapse.exc as s_exc
+s_exc.<mask>IndxValu(",Bad
+"from gssapi.raw import named_tuples as tuples
+tuples.<mask>quireCredByMechResult(",In
+"import gluonnlp as nlp
+nlp.vocab.create_subword_<mask>(",function
+"import vtkplotter.settings as settings
+settings.<mask>ter_instance.removeActor(",plot
+"import elist.elist as elel
+elel.<mask>_seqs(",broken
+"from flask import abort, Blueprint, current_app as app, render_template, redirect, request, url_for, make_response, send_from_directory, flash
+app.<mask>.cases(",db
+"from api import global_ as gl
+gl.<mask>_LABELS.clear(",DATA
+"from OpenSSL._util import ffi as _ffi, lib as _lib, exception_from_error_queue as _exception_from_error_queue, byte_string as _byte_string, native as _native, UNSPECIFIED as _UNSPECIFIED, text_to_bytes_and_warn as _text_to_bytes_and_warn, make_assert as _make_assert
+_lib.PKCS12_<mask>(",parse
+"import sugartensor as tf
+tf.one_<mask>(",hot
+"import ntlm_auth.compute_keys as compkeys
+compkeys.<mask>get_exchange_key_ntlm_v2(",_
+"import pymrio.tools.ioutil as ioutil
+ioutil.<mask>_vector(",is
+"import pyGeno.configuration as conf
+conf.<mask>.getIndexes(",db
+"import tensorflow as tf
+tf.nn.<mask>wise_conv2d(",depth
+"import utool as ut
+ut.get_global_dist_packages_<mask>(",dir
+"from hdate import converters as conv
+conv.jdn_to_g<mask>(",date
+"import meshlabxml as mlx
+mlx.vert_color.cyclic_rain<mask>(",bow
+"import matplotlib.colors as mcolors
+mcolors.LinearSegmentedColormap.<mask>_list(",from
+"import rewind.server.config as config
+config.Configuration<mask>(",Error
+"import urllib.request as urllib2
+urllib2.<mask>_opener(",build
+"import tensorflow.compat.v2 as tf
+tf.linalg.LinearOperatorLowerTri<mask>(",angular
+"import synapse.lib.syntax as s_syntax
+s_syntax.<mask>_cmd_string(",parse
+"import jaraco.windows.api.filesystem as api
+api.<mask>File(",Create
+"import synapse.lib.urlhelp as s_urlhelp
+s_urlhelp.<mask>opurl(",ch
+"import tofu.geom._comp as _comp
+_comp._Ves_get_sample<mask>(",S
+"import ga4gh.schemas.protocol as protocol
+protocol.GetInfo<mask>(",Response
+"import networkx as nx
+nx.readwrite.gexf.GEXF<mask>(",Writer
+"import healpy as hp
+hp.<mask>2nside(",order
+"import speculator.models.deep_neural_network as dnn
+dnn.<mask>NeuralNetwork(",Deep
+"import numpy.oldnumeric as Numeric
+Numeric.<mask>abs(",f
+"import heron.tools.cli.src.python.args as args
+args.add_<mask>(",config
+"import scipy.stats as ss
+ss.chi<mask>(",2
+"import tensorflow_probability as tfp
+tfp.bijectors.<mask>(",Exp
+"import tensorflow as tf
+tf.contrib.layers.<mask>avier_initializer(",x
+"import dicom2nifti.common as common
+common.<mask>_orthogonal_nifti(",is
+"import memote.suite.results as managers
+managers.RepoResult<mask>(",Manager
+"from gi.repository import PangoCairo as pangocairo
+pangocairo.create_<mask>(",layout
+"import types as t
+t.<mask>(",name
+"import tensorflow as tf
+tf.<mask>.bincount(",math
+"import gluonnlp as nlp
+nlp.utils.<mask>_grad_global_norm(",clip
+"import matplotlib.pyplot as plt
+plt.<mask>forbuttonpress(",wait
+"import tensorflow as tf
+tf.train.SequenceExample.<mask>String(",From
+"from senaite.jsonapi import request as req
+req.<mask>_sort_order(",get
+"import future.backports.email as email
+email.<mask>.formatdate(",utils
+"from flask import abort, Blueprint, current_app as app, render_template, redirect, request, url_for, make_response, send_from_directory, flash
+app.db.<mask>ini_queries(",gem
+"import numpy as np
+np.datetime_<mask>(",data
+"import tensorflow as tf
+tf.placeholder_with_<mask>(",default
+"from riemann.tx import zcash_shared as z
+z.SproutJoinsplit.<mask>_bytes(",from
+"import tofu.data._plot as _plot
+_plot.<mask>_plot_spectrogram(",Data
+"import sip_models.sip_response as sip_response
+sip_response.sip_<mask>(",response
+"import usb._interop as _interop
+_interop.as_<mask>(",array
+"import pmagpy.pmag as pmag
+pmag.<mask>arai(",sort
+"import tensorflow as tf
+tf.<mask>_like(",ones
+"from xmlrpc import server as SimpleXMLRPCServer
+SimpleXMLRPCServer.SimpleXMLRPC<mask>(",Server
+"import scipy.odr as odr
+odr.Real<mask>(",Data
+"import tensorflow as tf
+tf.<mask>_shape(",get
+"import quantumflow as qf
+qf.<mask>NOT(",C
+"import numpy as np
+np.<mask>mask(",put
+"from bhmm.output_models.impl_c import discrete as dc
+dc.update_p<mask>(",out
+"import crtomo.cfg as CRcfg
+CRcfg.crtomo_<mask>(",config
+"import pygtk3_helpers.ui.dialog as pu
+pu.<mask>(",open
+"import salicml.outliers.gaussian_outlier as gaussian_outlier
+gaussian_outlier.maximum_expected_<mask>(",value
+"import ga4gh.schemas.protocol as protocol
+protocol.<mask>PhenotypeAssociation(",Feature
+"from quark.db import api as db_api
+db_api.port_find_by_ip_<mask>(",address
+"import maya.cmds as cmds
+cmds.reference<mask>(",Query
+"import utool as ut
+ut.get_func_source<mask>(",code
+"import ga4gh.server.datamodel as datamodel
+datamodel.CallSetCompoundId.<mask>(",parse
+"from turbo.util import escape as _es, import_object
+_es.<mask>_str(",to
+"import tensorflow.compat.v2 as tf
+tf.<mask>(",equal
+"import gnomekeyring as gkr
+gkr.<mask>_delete_sync(",item
+"import numpy as np
+np.nanarg<mask>(",min
+"import pyglet.gl as gl
+gl.<mask>Clear(",gl
+"import urllib.parse as urllib
+urllib.split<mask>(",port
+"import quantumflow as qf
+qf.zero_<mask>(",state
+"import sugartensor as tf
+tf.<mask>.add_queue_runner(",train
+"import hwrt.utils as utils
+utils.get_latest_successful_<mask>(",run
+"import Geant4 as G4
+G4.<mask>4Material.GetMaterialTable(",G
+"from astropy import coordinates as coord
+coord.<mask>_body(",get
+"import uncompyle6.parsers.parse23 as parse23
+parse23.Python23Parser<mask>(",Single
+"import numina.util.convert as conv
+conv.convert_<mask>(",date
+"import AWSIoTPythonSDK.core.shadow.deviceShadow as deviceShadow
+deviceShadow.<mask>Shadow(",device
+"import mxnet as mx
+mx.<mask>.broadcast_mul(",sym
+"from pandas.compat.numpy import function as nv
+nv.validate_argmin_with_skip<mask>(",na
+"import model_organization.utils as utils
+utils.get_next_<mask>(",name
+"import mingus.core.notes as notes
+notes.<mask>_to_int(",note
+"import multiprocessing as mp
+mp.<mask>_start_method(",get
+"import sugartensor as tf
+tf.sg_layer_<mask>(",func
+"from grr_response_server.aff4_objects import users as aff4_users
+aff4_users.<mask>RUser.IsValidUsername(",GR
+"import _winreg as winreg
+winreg.Open<mask>(",Key
+"import numpy as np
+np.k<mask>(",ron
+"from grr_response_core.lib.rdfvalues import crypto as rdf_crypto
+rdf_crypto.Hash.FromSerialized<mask>(",String
+"import pandas as pd
+pd.tseries.frequencies.to_<mask>(",offset
+"import pyclustering.core.pcnn_wrapper as wrapper
+wrapper.pcnn_sim<mask>(",ulate
+"import ubelt as ub
+ub.map_<mask>(",vals
+"import tensorflow as tf
+tf.math.<mask>_equal(",less
+"import pmagpy.ipmag as ipmag
+ipmag.ani_depth<mask>(",plot
+"import etesync as api
+api.Calendar.<mask>(",create
+"from grr_response_server.rdfvalues import flow_runner as rdf_flow_runner
+rdf_flow_runner.RequestState.FromSerialized<mask>(",String
+"from salt.ext.six.moves.urllib.parse import urlparse as _urlparse
+_urlparse.Parse<mask>(",Result
+"import elist.elist as elel
+elel.<mask>_range(",init
+"import aioxmpp.stanza as stanza
+stanza.Pres<mask>(",ence
+"from OpenSSL._util import UNSPECIFIED as _UNSPECIFIED, exception_from_error_queue as _exception_from_error_queue, ffi as _ffi, lib as _lib, make_assert as _make_assert, native as _native, path_string as _path_string, text_to_bytes_and_warn as _text_to_bytes_and_warn, no_zero_allocator as _no_zero_allocator
+_lib.<mask>509_NAME_free(",X
+"from flask import abort, Blueprint, current_app as app, render_template, redirect, request, url_for, make_response, send_from_directory, flash
+app.<mask>.delete_resource(",db
+"from trepan.lib import thred as Mthread, complete as Mcomplete
+Mthread.find_debugged_<mask>(",frame
+"from six.moves import cPickle as pickle
+pickle.<mask>(",dump
+"import numpy as np
+np.next<mask>(",after
+"import sugartensor as tf
+tf.sg_optimize.<mask>PropOptimizer(",Max
+"import umi_tools.whitelist_methods as whitelist_methods
+whitelist_methods.<mask>DetectAboveThreshold(",error
+"from sc2gameLobby import resultHandler as rh
+rh.<mask>PlayerResults(",id
+"from dfdatetime import semantic_time as dfdatetime_semantic_time
+dfdatetime_semantic_time.Semantic<mask>(",Time
+"import pandas as pd
+pd.<mask>_html(",read
+"from pyemtmad import types as emtype
+emtype.<mask>ParkingPoi(",Info
+"from senaite.jsonapi import request as req
+req.<mask>_path(",get
+"from s2clientprotocol import sc2api_pb2 as sc_pb, common_pb2 as common_pb, query_pb2 as query_pb, debug_pb2 as debug_pb, raw_pb2 as raw_pb
+debug_pb.<mask>(",Color
+"import prob2020.python.indel as indel
+indel.<mask>_frameshift_annotation(",is
+"from QUANTAXIS.QAFetch import QATdx as QATdx
+QATdx.<mask>A_fetch_get_future_day(",Q
+"import utool as ut
+ut.Progress<mask>(",Iter
+"import matplotlib.pyplot as plt
+plt.<mask>vline(",ax
+"import mxnet as mx
+mx.nd.<mask>(",stack
